@@ -51,6 +51,3 @@ Exemple d'execution
 
 gcc tri.c -o tri
 ./tri
-
-gcc nom_du_fichier.c -o programme
-./programme
