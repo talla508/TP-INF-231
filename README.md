@@ -6,7 +6,7 @@ Chaque fichier source correspond à une implémentation indépendante d’un alg
 ---
 
 ## 📂 Contenu des programmes
-
+ 
 - **a*b.c**  
   Implémentation du produit de deux entiers `a` et `b` (pour `a, b > 0`), en utilisant uniquement des additions successives.
 
